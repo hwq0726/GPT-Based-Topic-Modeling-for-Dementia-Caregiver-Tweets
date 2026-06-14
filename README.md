@@ -76,3 +76,19 @@ pip install openai pandas tqdm numpy sentence-transformers gensim scipy matplotl
 3. **Customize Parameters**: Modify the following parameters as needed:
    - `topic_num`: Number of topics to extract (default: 5)
    - `chunk_size`: Size of tweet chunks for Stage 1 processing (default: 1000)
+
+  ### 📖 Citation
+If you find this work helpful, please consider citing our paper:
+
+```bibtex
+@article{he2025advanced,
+  title={Advanced topic modeling with large language models: Analyzing social media content from dementia caregivers},
+  author={He, Weiqing and Hou, Bojian and Zheng, Amy and Feng, Yanbo and Klein, Ari and O’Connor, Karen and Yang, Shu and Shang, Tianqi and Demiris, George and Gonzalez-Hernandez, Graciela and others},
+  journal={Innovation in Aging},
+  volume={9},
+  number={Supplement\_1},
+  pages={S38--S47},
+  year={2025},
+  publisher={Oxford University Press}
+}
+}
